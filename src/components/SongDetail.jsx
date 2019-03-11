@@ -10,6 +10,7 @@ const SongDetail = ({song}) =>{
             <h3>Details for:</h3>
             <p>
                 Title: {song.title}
+                <br/>
                 Duratation: {song.duration}
             </p>
         </div>
